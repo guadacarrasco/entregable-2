@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Juego Concurrente en Java
 
 ## Descripción
@@ -119,3 +120,6 @@ java GameSimulator
 ## Conclusión
 
 Este proyecto demuestra el uso efectivo de patrones de concurrencia en Java para crear un sistema multijugador robusto y eficiente. La implementación incluye todas las mejores prácticas de programación concurrente y proporciona una base sólida para futuras mejoras.
+=======
+# entregable-2
+>>>>>>> 841f8166cd597e5419226618d6597cb1508e0a3b
