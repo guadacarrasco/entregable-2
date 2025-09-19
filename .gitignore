@@ -1,0 +1,42 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos de log generados por el juego
+game_log_*.txt
+
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Archivos de compilación
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Archivos de configuración local
+*.local
+*.env
+
+# Archivos de backup
+*.bak
+*.backup
