@@ -1,0 +1,140 @@
+[2025-09-30 15:27:18] === INICIO DE NUEVA PARTIDA ===
+[2025-09-30 15:27:18] Jugador 1 se unió al juego. Total: 1/3
+[2025-09-30 15:27:19] Jugador 2 se unió al juego. Total: 2/3
+[2025-09-30 15:27:20] Jugador 3 se unió al juego. Total: 3/3
+[2025-09-30 15:27:20] EVENTO: Iniciando partida con 3 jugadores
+[2025-09-30 15:27:20] EVENTO: Duración: 60 segundos
+[2025-09-30 15:27:20] JUGADOR 1: Posicionado en (0,6)
+[2025-09-30 15:27:20] JUGADOR 2: Posicionado en (0,2)
+[2025-09-30 15:27:20] JUGADOR 3: Posicionado en (3,9)
+[2025-09-30 15:27:20] Jugador 1 se movió a (4,1) con dado 5
+[2025-09-30 15:27:20] Jugador 2 se movió a (3,3) con dado 2
+[2025-09-30 15:27:20] EVENTO: ¡Juego iniciado!
+[2025-09-30 15:27:20] Jugador 3 se movió a (2,9) con dado 6
+[2025-09-30 15:27:20] Robot de Vidas colocó una vida en (8,0)
+[2025-09-30 15:27:20] Robot de Monedas colocó 10 monedas en (4,3)
+[2025-09-30 15:27:20] Robot Malo colocó una trampa en (8,9)
+[2025-09-30 15:27:21] Jugador 3 se movió a (3,9) con dado 6
+[2025-09-30 15:27:22] Jugador 2 se movió a (3,2) con dado 3
+[2025-09-30 15:27:22] Jugador 1 se movió a (4,2) con dado 4
+[2025-09-30 15:27:23] Jugador 3 se movió a (3,8) con dado 3
+[2025-09-30 15:27:24] Jugador 1 no pudo moverse a (3,2) - casilla ocupada
+[2025-09-30 15:27:24] Robot Malo colocó una trampa en (5,4)
+[2025-09-30 15:27:24] Jugador 2 se movió a (3,3) con dado 4
+[2025-09-30 15:27:25] Jugador 3 se movió a (2,7) con dado 5
+[2025-09-30 15:27:25] Robot de Vidas colocó una vida en (7,0)
+[2025-09-30 15:27:25] Robot de Monedas colocó 1 monedas en (0,8)
+[2025-09-30 15:27:27] Jugador 1 recolectó 10 monedas! Total: 10
+[2025-09-30 15:27:27] Jugador 1 se movió a (4,3) con dado 4
+[2025-09-30 15:27:27] Jugador 2 se movió a (4,4) con dado 6
+[2025-09-30 15:27:27] Jugador 3 se movió a (3,8) con dado 6
+[2025-09-30 15:27:28] Robot Malo colocó una trampa en (5,8)
+[2025-09-30 15:27:28] Jugador 2 se movió a (4,5) con dado 4
+[2025-09-30 15:27:29] Jugador 1 se movió a (3,3) con dado 1
+[2025-09-30 15:27:30] Robot de Vidas colocó una vida en (0,1)
+[2025-09-30 15:27:30] Jugador 2 se movió a (3,5) con dado 1
+[2025-09-30 15:27:30] Robot de Monedas colocó 10 monedas en (0,1)
+[2025-09-30 15:27:30] Jugador 3 se movió a (3,7) con dado 3
+[2025-09-30 15:27:31] Robot Malo colocó una trampa en (3,0)
+[2025-09-30 15:27:31] Jugador 1 se movió a (2,2) con dado 5
+[2025-09-30 15:27:32] Jugador 2 se movió a (4,5) con dado 2
+[2025-09-30 15:27:32] Jugador 3 se movió a (2,6) con dado 5
+[2025-09-30 15:27:33] Jugador 1 se movió a (2,1) con dado 3
+[2025-09-30 15:27:34] Robot de Vidas colocó una vida en (1,6)
+[2025-09-30 15:27:34] Jugador 2 se movió a (4,4) con dado 3
+[2025-09-30 15:27:35] Jugador 3 se movió a (3,7) con dado 6
+[2025-09-30 15:27:35] Jugador 1 se movió a (3,1) con dado 2
+[2025-09-30 15:27:35] Robot de Monedas colocó 10 monedas en (9,1)
+[2025-09-30 15:27:35] Robot Malo colocó una trampa en (1,2)
+[2025-09-30 15:27:36] Jugador 3 se movió a (2,6) con dado 5
+[2025-09-30 15:27:36] Jugador 1 se movió a (4,1) con dado 2
+[2025-09-30 15:27:37] Jugador 2 se movió a (5,5) con dado 6
+[2025-09-30 15:27:38] Jugador 1 se movió a (5,2) con dado 6
+[2025-09-30 15:27:38] Jugador 2 se movió a (4,5) con dado 1
+[2025-09-30 15:27:39] Jugador 3 recolectó una vida! Total: 2
+[2025-09-30 15:27:39] Jugador 3 se movió a (1,6) con dado 1
+[2025-09-30 15:27:39] Robot de Vidas colocó una vida en (2,2)
+[2025-09-30 15:27:39] Robot de Monedas colocó 10 monedas en (0,1)
+[2025-09-30 15:27:39] Jugador 1 se movió a (6,2) con dado 2
+[2025-09-30 15:27:39] Robot Malo colocó una trampa en (8,9)
+[2025-09-30 15:27:40] Jugador 2 se movió a (5,5) con dado 2
+[2025-09-30 15:27:41] Jugador 3 se movió a (1,5) con dado 3
+[2025-09-30 15:27:42] Jugador 1 se movió a (7,3) con dado 6
+[2025-09-30 15:27:42] Jugador 3 se movió a (1,4) con dado 3
+[2025-09-30 15:27:43] Robot Malo colocó una trampa en (1,7)
+[2025-09-30 15:27:43] Jugador 2 se movió a (4,5) con dado 1
+[2025-09-30 15:27:43] Robot de Vidas colocó una vida en (2,6)
+[2025-09-30 15:27:43] Jugador 3 se movió a (1,5) con dado 4
+[2025-09-30 15:27:44] Robot de Monedas colocó 5 monedas en (1,8)
+[2025-09-30 15:27:44] Jugador 1 se movió a (8,3) con dado 2
+[2025-09-30 15:27:45] Jugador 2 se movió a (3,4) con dado 5
+[2025-09-30 15:27:46] Jugador 3 se movió a (1,4) con dado 3
+[2025-09-30 15:27:47] Jugador 1 se movió a (8,2) con dado 3
+[2025-09-30 15:27:47] Robot de Vidas: Esperando a que se tomen vidas del tablero...
+[2025-09-30 15:27:47] Jugador 2 se movió a (2,3) con dado 5
+[2025-09-30 15:27:47] Robot Malo colocó una trampa en (2,9)
+[2025-09-30 15:27:48] Jugador 3 se movió a (0,3) con dado 5
+[2025-09-30 15:27:48] Jugador 1 se movió a (9,2) con dado 2
+[2025-09-30 15:27:48] Robot de Monedas: Esperando a que se liberen casillas...
+[2025-09-30 15:27:50] Jugador 3 se movió a (1,3) con dado 2
+[2025-09-30 15:27:50] Jugador 2 no pudo moverse a (1,3) - casilla ocupada
+[2025-09-30 15:27:50] Jugador 1 no pudo moverse a (9,2) - casilla ocupada
+[2025-09-30 15:27:50] Robot Malo colocó una trampa en (4,9)
+[2025-09-30 15:27:52] Jugador 1 se movió a (8,1) con dado 5
+[2025-09-30 15:27:53] Jugador 3 se movió a (0,3) con dado 1
+[2025-09-30 15:27:53] Robot de Monedas: Esperando a que se liberen casillas...
+[2025-09-30 15:27:53] Jugador 2 cayó en una trampa! Perdió una vida. Vidas restantes: 0
+[2025-09-30 15:27:53] Jugador 2 ha muerto!
+[2025-09-30 15:27:53] Jugador 2 se movió a (1,2) con dado 5
+[2025-09-30 15:27:53] Robot de Vidas: Esperando a que se tomen vidas del tablero...
+[2025-09-30 15:27:54] Jugador 1 recolectó 10 monedas! Total: 20
+[2025-09-30 15:27:54] Jugador 1 se movió a (9,1) con dado 2
+[2025-09-30 15:27:55] Jugador 1 se movió a (9,2) con dado 6
+[2025-09-30 15:27:55] Jugador 3 no pudo moverse a (0,3) - casilla ocupada
+[2025-09-30 15:27:55] Robot Malo colocó una trampa en (7,0)
+[2025-09-30 15:27:57] Jugador 3 se movió a (0,4) con dado 4
+[2025-09-30 15:27:57] Jugador 1 se movió a (9,1) con dado 3
+[2025-09-30 15:27:58] Robot de Monedas colocó 1 monedas en (2,5)
+[2025-09-30 15:27:58] Robot de Vidas: Esperando a que se tomen vidas del tablero...
+[2025-09-30 15:27:58] Jugador 3 se movió a (0,3) con dado 5
+[2025-09-30 15:27:58] Robot Malo colocó una trampa en (3,2)
+[2025-09-30 15:27:59] Jugador 1 se movió a (9,2) con dado 4
+[2025-09-30 15:28:00] Jugador 3 se movió a (1,4) con dado 6
+[2025-09-30 15:28:01] Jugador 1 se movió a (9,3) con dado 4
+[2025-09-30 15:28:02] Robot Malo colocó una trampa en (3,8)
+[2025-09-30 15:28:02] Robot de Monedas: Esperando a que se liberen casillas...
+[2025-09-30 15:28:02] Robot de Vidas: Esperando a que se tomen vidas del tablero...
+[2025-09-30 15:28:02] Jugador 3 se movió a (1,3) con dado 3
+[2025-09-30 15:28:03] Jugador 1 se movió a (9,4) con dado 6
+[2025-09-30 15:28:04] Robot Malo colocó una trampa en (2,4)
+[2025-09-30 15:28:04] Jugador 3 se movió a (0,2) con dado 5
+[2025-09-30 15:28:06] Jugador 3 se movió a (1,3) con dado 6
+[2025-09-30 15:28:06] Jugador 1 se movió a (9,5) con dado 6
+[2025-09-30 15:28:06] Robot Malo colocó una trampa en (9,0)
+[2025-09-30 15:28:06] Robot de Monedas: Esperando a que se liberen casillas...
+[2025-09-30 15:28:07] Robot de Vidas: Esperando a que se tomen vidas del tablero...
+[2025-09-30 15:28:08] Jugador 3 se movió a (1,4) con dado 4
+[2025-09-30 15:28:09] Jugador 1 no pudo moverse a (9,5) - casilla ocupada
+[2025-09-30 15:28:09] Robot Malo colocó una trampa en (6,6)
+[2025-09-30 15:28:10] Jugador 3 se movió a (1,5) con dado 4
+[2025-09-30 15:28:10] Robot de Monedas: Esperando a que se liberen casillas...
+[2025-09-30 15:28:11] Jugador 1 se movió a (8,4) con dado 5
+[2025-09-30 15:28:12] Robot de Vidas: Esperando a que se tomen vidas del tablero...
+[2025-09-30 15:28:12] Jugador 3 se movió a (1,4) con dado 3
+[2025-09-30 15:28:14] Robot Malo: Ya colocó el máximo de trampas. Terminando labor.
+[2025-09-30 15:28:14] Jugador 1 se movió a (9,4) con dado 2
+[2025-09-30 15:28:14] Jugador 3 se movió a (0,3) con dado 5
+[2025-09-30 15:28:16] Robot de Monedas: Esperando a que se liberen casillas...
+[2025-09-30 15:28:16] Jugador 3 se movió a (0,4) con dado 4
+[2025-09-30 15:28:16] Robot de Vidas: Esperando a que se tomen vidas del tablero...
+[2025-09-30 15:28:17] Jugador 1 se movió a (9,5) con dado 6
+[2025-09-30 15:28:19] Jugador 3 se movió a (1,4) con dado 2
+[2025-09-30 15:28:19] Jugador 1 se movió a (9,6) con dado 4
+[2025-09-30 15:28:20] EVENTO: Tiempo agotado - Finalizando partida
+[2025-09-30 15:28:21] === FIN DE PARTIDA ===
+[2025-09-30 15:28:21] RESULTADOS FINALES:
+[2025-09-30 15:28:21] Jugador 1 - Vidas: 1, Monedas: 20, Estado: VIVO
+[2025-09-30 15:28:21] Jugador 2 - Vidas: 0, Monedas: 0, Estado: MUERTO
+[2025-09-30 15:28:21] Jugador 3 - Vidas: 2, Monedas: 0, Estado: VIVO
+[2025-09-30 15:28:21] GANADOR: Jugador 1 con 20 monedas
+[2025-09-30 15:28:21] === FIN DEL LOG ===
